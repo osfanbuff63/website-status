@@ -6,37 +6,35 @@
     "slug": "website",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 147,
-    "timeDay": 87,
+    "time": 148,
+    "timeDay": 117,
     "timeWeek": 180,
-    "timeMonth": 143,
-    "timeYear": 147,
+    "timeMonth": 144,
+    "timeYear": 148,
     "dailyMinutesDown": {
-      "2023-01-09": 0
+      "2023-01-09": 2
     }
   },
   {
-    "name": "Website (rewrite)",
-    "url": "https://rewrite.osfanbuff63.tech",
-    "icon": "https://icons.duckduckgo.com/ip3/rewrite.osfanbuff63.tech.ico",
-    "slug": "website-rewrite",
-    "status": "down",
+    "name": "Beatbump instance",
+    "url": "https://beatbump.osfanbuff63.tech",
+    "icon": "https://icons.duckduckgo.com/ip3/beatbump.osfanbuff63.tech.ico",
+    "slug": "beatbump-instance",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 491,
-    "timeDay": 631,
-    "timeWeek": 604,
-    "timeMonth": 508,
-    "timeYear": 491,
-    "dailyMinutesDown": {
-      "2023-01-09": 0
-    }
+    "time": 1631,
+    "timeDay": 1631,
+    "timeWeek": 1631,
+    "timeMonth": 1631,
+    "timeYear": 1631,
+    "dailyMinutesDown": {}
   }
 ]
