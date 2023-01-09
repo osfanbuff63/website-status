@@ -4,35 +4,39 @@
     "url": "https://osfanbuff63.tech",
     "icon": "https://icons.duckduckgo.com/ip3/osfanbuff63.tech.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 149,
-    "timeDay": 135,
-    "timeWeek": 200,
-    "timeMonth": 146,
-    "timeYear": 149,
-    "dailyMinutesDown": {}
+    "time": 147,
+    "timeDay": 87,
+    "timeWeek": 180,
+    "timeMonth": 143,
+    "timeYear": 147,
+    "dailyMinutesDown": {
+      "2023-01-09": 0
+    }
   },
   {
     "name": "Website (rewrite)",
     "url": "https://rewrite.osfanbuff63.tech",
     "icon": "https://icons.duckduckgo.com/ip3/rewrite.osfanbuff63.tech.ico",
     "slug": "website-rewrite",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 499,
-    "timeDay": 1219,
-    "timeWeek": 684,
-    "timeMonth": 523,
-    "timeYear": 499,
-    "dailyMinutesDown": {}
+    "time": 491,
+    "timeDay": 631,
+    "timeWeek": 604,
+    "timeMonth": 508,
+    "timeYear": 491,
+    "dailyMinutesDown": {
+      "2023-01-09": 0
+    }
   }
 ]
