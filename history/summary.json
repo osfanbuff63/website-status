@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/osfanbuff63.tech.ico",
     "slug": "website",
     "status": "up",
-    "uptime": "99.19%",
+    "uptime": "99.20%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.19%",
-    "time": 168,
-    "timeDay": 186,
-    "timeWeek": 234,
-    "timeMonth": 214,
-    "timeYear": 168,
+    "uptimeYear": "99.20%",
+    "time": 167,
+    "timeDay": 70,
+    "timeWeek": 201,
+    "timeMonth": 208,
+    "timeYear": 167,
     "dailyMinutesDown": {
       "2023-01-10": 888,
       "2023-01-09": 502
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1359,
-    "timeDay": 1001,
+    "time": 1352,
+    "timeDay": 908,
     "timeWeek": 1322,
     "timeMonth": 1204,
-    "timeYear": 1359,
+    "timeYear": 1352,
     "dailyMinutesDown": {}
   }
 ]
