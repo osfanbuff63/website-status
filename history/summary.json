@@ -25,19 +25,19 @@
     "url": "https://beatbump.osfanbuff63.tech",
     "icon": "https://icons.duckduckgo.com/ip3/beatbump.osfanbuff63.tech.ico",
     "slug": "beatbump-instance",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1313,
-    "timeDay": 709,
-    "timeWeek": 1149,
-    "timeMonth": 1228,
-    "timeYear": 1313,
+    "time": 1300,
+    "timeDay": 551,
+    "timeWeek": 1042,
+    "timeMonth": 1194,
+    "timeYear": 1300,
     "dailyMinutesDown": {
-      "2023-04-09": 5
+      "2023-04-09": 0
     }
   }
 ]
