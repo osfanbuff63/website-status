@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/osfanbuff63.tech.ico",
     "slug": "website",
     "status": "up",
-    "uptime": "99.46%",
+    "uptime": "99.47%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.46%",
-    "time": 194,
-    "timeDay": 77,
-    "timeWeek": 264,
-    "timeMonth": 255,
-    "timeYear": 194,
+    "uptimeYear": "99.47%",
+    "time": 195,
+    "timeDay": 336,
+    "timeWeek": 297,
+    "timeMonth": 262,
+    "timeYear": 195,
     "dailyMinutesDown": {
       "2023-01-10": 888,
       "2023-01-09": 502
@@ -27,17 +27,15 @@
     "slug": "beatbump-instance",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1319,
-    "timeDay": 854,
-    "timeWeek": 1357,
-    "timeMonth": 1298,
-    "timeYear": 1319,
-    "dailyMinutesDown": {
-      "2023-05-09": 5
-    }
+    "time": 1323,
+    "timeDay": 1148,
+    "timeWeek": 1455,
+    "timeMonth": 1361,
+    "timeYear": 1323,
+    "dailyMinutesDown": {}
   }
 ]
