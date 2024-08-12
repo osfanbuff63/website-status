@@ -26,7 +26,7 @@
     "url": "https://beatbump.osfanbuff63.tech",
     "icon": "https://icons.duckduckgo.com/ip3/beatbump.osfanbuff63.tech.ico",
     "slug": "beatbump-instance",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
     "uptimeDay": "92.23%",
     "uptimeWeek": "98.89%",
@@ -38,6 +38,7 @@
     "timeMonth": 651,
     "timeYear": 747,
     "dailyMinutesDown": {
+      "2024-08-12": 0,
       "2024-08-11": 112,
       "2024-02-29": 22,
       "2024-02-15": 318
