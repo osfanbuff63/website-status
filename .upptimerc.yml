@@ -4,14 +4,14 @@ repo: website-status # The name of this repository
 
 sites:
   - name: Website
-    url: https://osfanbuff63.tech
+    url: https://osfanbuff63.xyz
   - name: Beatbump instance
-    url: https://beatbump.osfanbuff63.tech
+    url: https://beatbump.osfanbuff63.xyz
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: status.osfanbuff63.tech
+  cname: status.osfanbuff63.xyz
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/osfanbuff63/branding/pfp/osfanbuff63.svg
   name: osfanStatus
