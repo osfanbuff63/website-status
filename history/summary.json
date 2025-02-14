@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/osfanbuff63.xyz.ico",
     "slug": "website",
     "status": "down",
-    "uptime": "77.76%",
+    "uptime": "77.66%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "49.95%",
+    "uptimeYear": "49.67%",
     "time": 285,
-    "timeDay": 96,
-    "timeWeek": 621,
-    "timeMonth": 217,
-    "timeYear": 177,
+    "timeDay": 64,
+    "timeWeek": 619,
+    "timeMonth": 216,
+    "timeYear": 176,
     "dailyMinutesDown": {
-      "2025-02-13": 84,
+      "2025-02-14": 84,
+      "2025-02-13": 1440,
       "2025-02-12": 1440,
       "2025-02-11": 1440,
       "2025-02-10": 1440,
@@ -201,8 +202,7 @@
       "2024-08-15": 1440,
       "2024-08-14": 527,
       "2024-08-11": 112,
-      "2024-02-29": 22,
-      "2024-02-15": 258
+      "2024-02-29": 22
     }
   },
   {
@@ -211,18 +211,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/beatbump.osfanbuff63.xyz.ico",
     "slug": "beatbump-instance",
     "status": "down",
-    "uptime": "76.11%",
+    "uptime": "76.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "49.93%",
+    "uptimeYear": "49.65%",
     "time": 753,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 656,
     "dailyMinutesDown": {
-      "2025-02-13": 84,
+      "2025-02-14": 84,
+      "2025-02-13": 1440,
       "2025-02-12": 1440,
       "2025-02-11": 1440,
       "2025-02-10": 1440,
@@ -408,8 +409,7 @@
       "2024-08-14": 543,
       "2024-08-12": 31,
       "2024-08-11": 112,
-      "2024-02-29": 22,
-      "2024-02-15": 318
+      "2024-02-29": 22
     }
   }
 ]
